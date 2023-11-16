@@ -1,5 +1,5 @@
 # Speaker Scream
-Specify inactive time and when mouse is moved after that scream is played.
+Specify inactive time and when mouse is moved scream is played.
 
 > [!NOTE]
 > You can change line 14 "specifiedTimeInSeconds" to your desired inactive time.
