@@ -3,6 +3,8 @@ Takes a video using usb or onboard webcam and uploads it to Discord via webhook.
 
 > [!IMPORTANT]
 > You must change line 14 "DiscordWebhook" to your webhook.
+
+>[!NOTE]
 > You can change line 16 "vidd" for longer or shorter videos.
 
 ## Legal
