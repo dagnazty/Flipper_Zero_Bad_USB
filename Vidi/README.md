@@ -1,4 +1,4 @@
-Vidi
+# Vidi
 Takes a video using usb or onboard webcam and uploads it to Discord via webhook.
 
 > [!IMPORTANT]
