@@ -2,9 +2,8 @@
 Uploads the specified amount of images to Discord via webhook.
 
 > [!IMPORTANT]
-> You must change line 14 "DiscordWebhook" to your webhook.
-> 
-> You must change line 15 "ImageURL" to your Image url.
+> - You must change line 14 "DiscordWebhook" to your webhook.
+> - You must change line 15 "ImageURL" to your Image url.
 
 > [!NOTE]
 > Lines 16 can be changed to the designated amount of images you wish to post.
