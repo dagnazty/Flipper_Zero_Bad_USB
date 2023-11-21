@@ -3,14 +3,11 @@ Uploads the specified amount of images to Discord via webhook.
 
 > [!IMPORTANT]
 > You must change line 14 "DiscordWebhook" to your webhook.
->
 > You must change line 15 "ImageURL" to your Image url.
->
+
 > [!NOTE]
 > Lines 16 can be changed to the designated amount of images you wish to post.
->
 > Line 17 can be changed to how long you wish to wait between image posting. Set to 1 second as default to avoid rate limiting.
->
 > Line 18 changes the color of the embeded message in hex. Set to purple as default.  
 
 ## Legal
